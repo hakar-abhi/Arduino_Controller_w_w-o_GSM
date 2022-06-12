@@ -1,0 +1,12 @@
+arduino- UNO for 1-3 tanks, MEGA for 3 or more tanks and complex algorithms
+ethernet wires - as sensor to control board connection path
+sensors- water resistant sensors
+few leds
+pcb board
+pcb design via KiCAD
+relays 12V, 5V 
+diodes 1N40007
+capacitors
+resistors 4.7K and as req.
+transistors bc547 works well
+lcd 16*2 or 20*4 as req, any works
