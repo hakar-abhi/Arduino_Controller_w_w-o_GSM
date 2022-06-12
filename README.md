@@ -6,6 +6,8 @@ The control is very basic, the sensors (depending on sensors you use) detect sta
 
 This is an attempt to design a control board able to control variety of discrete and analog loads, also it attempts to devise algorithms accordingly.
 
+Also a GSM based load control code is added just to show how oter ways load can be controlled. We went on to make a networked controlled unit deploying raspberry pis, arduinos and sensors all in action.
+
 # Demo of Conrtol Board in Action
 
 https://user-images.githubusercontent.com/78263671/173224044-5a2003e3-b94f-4020-ac1d-87e28bd79a62.mp4
