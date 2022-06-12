@@ -8,5 +8,5 @@ This is an attempt to design a control board able to control variety of discrete
 
 # Demo of Conrtol Board in Action
 
-https://user-images.githubusercontent.com/78263671/173223881-864221b8-4807-46d4-9246-f245bf787903.mp4
+
 
